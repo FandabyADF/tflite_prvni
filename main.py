@@ -16,8 +16,13 @@ from absl import logging
 logging.set_verbosity(logging.ERROR)
 
 spec = model_spec.get('efficientdet_lite4')
-imgs = r'C:\Users\f.steinhauser\datasety\vsechny_rcnn\img2'
-annot = r'C:\Users\f.steinhauser\datasety\vsechny_rcnn\annot'
+# windows celkovy dataset
+#imgs = r'C:\Users\f.steinhauser\datasety\vsechny_rcnn\img2'
+#annot = r'C:\Users\f.steinhauser\datasety\vsechny_rcnn\annot'
+
+# v exportovanem projekt
+imgs = "img2"
+annot = "annot"
 
 #train_data, validation_data, test_data = object_detector.DataLoader.from_csv('gs://cloud-ml-data/img/openimage/csv/salads_ml_use.csv')
 train_data = object_detector.DataLoader.from_pascal_voc(imgs, annot, label_map={1: "apple", 2: "apples", 3: "damaged_apple"})
