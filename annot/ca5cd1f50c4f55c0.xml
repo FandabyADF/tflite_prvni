@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Annotation</folder>
+	<filename>ca5cd1f50c4f55c0.jpg</filename>
+	<path>vzdy_se_meni</path>
+	<source>
+		<databaze>jen_uft8_symboly</databaze>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118.531918</xmin>
+			<ymin>541.44</ymin>
+			<xmax>442.09224</xmax>
+			<ymax>853.12</ymax>
+		</bndbox>
+	</object>
+</annotation>

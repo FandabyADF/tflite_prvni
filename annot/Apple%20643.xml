@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Apple%20643.jpg</filename>
+    <path>vzdy_se_meni</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>258</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>173.70242214532874</xmin>
+        <ymin>34.603004291845494</ymin>
+        <xmax>240.13840830449828</xmax>
+        <ymax>106.30042918454936</ymax>
+    </bndbox>
+</object>
+</annotation>

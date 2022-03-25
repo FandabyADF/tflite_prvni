@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Apple%20138.jpg</filename>
+    <path>vzdy_se_meni</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>269.95140388768897</xmin>
+        <ymin>16.929184549356222</ymin>
+        <xmax>368.7850971922246</xmax>
+        <ymax>109.5214592274678</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>70.5561555075594</xmin>
+        <ymin>52.86051502145923</ymin>
+        <xmax>179.7570194384449</xmax>
+        <ymax>153.05364806866953</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>173.88228941684665</xmin>
+        <ymin>102.61158798283262</ymin>
+        <xmax>277.2084233261339</xmax>
+        <ymax>194.16738197424894</ymax>
+    </bndbox>
+</object>
+</annotation>

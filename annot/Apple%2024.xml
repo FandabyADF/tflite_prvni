@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Apple%2024.jpg</filename>
+    <path>vzdy_se_meni</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>306.5820734341253</xmin>
+        <ymin>207.9871244635193</ymin>
+        <xmax>426.1501079913607</xmax>
+        <ymax>315.78111587982835</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>193.23434125269978</xmin>
+        <ymin>167.90987124463518</ymin>
+        <xmax>305.1997840172786</xmax>
+        <ymax>271.2124463519313</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>64.68142548596111</xmin>
+        <ymin>193.4763948497854</ymin>
+        <xmax>195.99892008639307</xmax>
+        <ymax>300.2339055793991</ymax>
+    </bndbox>
+</object>
+</annotation>

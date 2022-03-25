@@ -1,0 +1,92 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Apple%2072.jpg</filename>
+    <path>vzdy_se_meni</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>41.524926686217015</xmin>
+        <ymin>92.03063524590164</ymin>
+        <xmax>152.0234604105572</xmax>
+        <ymax>188.1027663934426</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>156.5982404692082</xmin>
+        <ymin>53.320252732240434</ymin>
+        <xmax>256.53958944281527</xmax>
+        <ymax>138.48309426229508</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>349.0909090909091</xmin>
+        <ymin>68.4524931693989</ymin>
+        <xmax>460.99706744868035</xmax>
+        <ymax>157.8382855191257</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>155.89442815249268</xmin>
+        <ymin>136.72353142076503</ymin>
+        <xmax>262.1700879765396</xmax>
+        <ymax>234.9071379781421</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>249.85337243401761</xmin>
+        <ymin>93.43828551912569</ymin>
+        <xmax>363.51906158357775</xmax>
+        <ymax>191.62189207650272</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>337.12609970674487</xmin>
+        <ymin>157.48637295081966</ymin>
+        <xmax>460.2932551319648</xmax>
+        <ymax>264.11588114754096</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>229.0909090909091</xmin>
+        <ymin>203.5869193989071</ymin>
+        <xmax>345.57184750733137</xmax>
+        <ymax>308.10495218579234</ymax>
+    </bndbox>
+</object>
+</annotation>

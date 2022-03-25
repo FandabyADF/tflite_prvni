@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Apple%2087.jpg</filename>
+    <path>vzdy_se_meni</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>95.43736501079913</xmin>
+        <ymin>144.07081545064378</ymin>
+        <xmax>218.11555075593952</xmax>
+        <ymax>254.97424892703862</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>84.37904967602591</xmin>
+        <ymin>72.20815450643777</ymin>
+        <xmax>185.97732181425485</xmax>
+        <ymax>144.07081545064375</ymax>
+    </bndbox>
+</object>
+</annotation>

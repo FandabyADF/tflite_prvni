@@ -1,0 +1,25 @@
+<annotation>
+	<folder>n07742313</folder>
+	<filename>n07742313_21346.jpg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>86</ymin>
+			<xmax>288</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

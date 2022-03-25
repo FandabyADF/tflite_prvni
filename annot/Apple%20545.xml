@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Apple%20545.jpg</filename>
+    <path>vzdy_se_meni</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>104.01939655172414</xmin>
+        <ymin>175.13490364025697</ymin>
+        <xmax>217.4676724137931</xmax>
+        <ymax>276.4925053533191</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>37.4676724137931</xmin>
+        <ymin>92.39400428265525</ymin>
+        <xmax>145.39870689655174</xmax>
+        <ymax>184.44325481798717</ymax>
+    </bndbox>
+</object><object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>212.36830835117772</ymin>
+        <xmax>103.32974137931035</xmax>
+        <ymax>313.3811563169165</ymax>
+    </bndbox>
+</object>
+</annotation>
