@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>367.39002932551324</xmin>
-        <ymin>208.86560792349727</ymin>
-        <xmax>480.00000000000006</xmax>
-        <ymax>316.55085382513664</ymax>
+        <xmin>367</xmin>
+        <ymin>209</ymin>
+        <xmax>480</xmax>
+        <ymax>317</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -28,10 +28,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>250.55718475073314</xmin>
-        <ymin>45.22626366120218</ymin>
-        <xmax>351.9061583577713</xmax>
-        <ymax>137.42735655737704</ymax>
+        <xmin>251</xmin>
+        <ymin>45</ymin>
+        <xmax>352</xmax>
+        <ymax>137</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -39,10 +39,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>219.94134897360706</xmin>
-        <ymin>127.92571721311475</ymin>
-        <xmax>331.8475073313783</xmax>
-        <ymax>224.34976092896176</ymax>
+        <xmin>220</xmin>
+        <ymin>128</ymin>
+        <xmax>332</xmax>
+        <ymax>224</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -50,10 +50,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>179.12023460410558</xmin>
-        <ymin>217.83387978142076</ymin>
-        <xmax>296.65689149560126</xmax>
-        <ymax>321.12571721311474</ymax>
+        <xmin>179</xmin>
+        <ymin>218</ymin>
+        <xmax>297</xmax>
+        <ymax>321</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -61,10 +61,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>51.730205278592386</xmin>
-        <ymin>197.07103825136608</ymin>
-        <xmax>167.50733137829914</xmax>
-        <ymax>298.2514002732239</ymax>
+        <xmin>52</xmin>
+        <ymin>197</ymin>
+        <xmax>168</xmax>
+        <ymax>298</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -72,10 +72,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>97.82991202346042</xmin>
-        <ymin>106.10713797814208</ymin>
-        <xmax>208.3284457478006</xmax>
-        <ymax>202.17926912568305</ymax>
+        <xmin>98</xmin>
+        <ymin>106</ymin>
+        <xmax>208</xmax>
+        <ymax>202</ymax>
     </bndbox>
 </object>
 </annotation>

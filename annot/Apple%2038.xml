@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>113.40712742980561</xmin>
-        <ymin>120.92274678111588</ymin>
-        <xmax>222.60799136069113</xmax>
-        <ymax>209.71459227467813</ymax>
+        <xmin>113</xmin>
+        <ymin>121</ymin>
+        <xmax>223</xmax>
+        <ymax>210</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -28,10 +28,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>42.910367170626344</xmin>
-        <ymin>203.15021459227466</ymin>
-        <xmax>179.06587473002156</xmax>
-        <ymax>308.87124463519314</ymax>
+        <xmin>43</xmin>
+        <ymin>203</ymin>
+        <xmax>179</xmax>
+        <ymax>309</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -39,10 +39,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>274.7894168466523</xmin>
-        <ymin>122.30472103004291</ymin>
-        <xmax>379.49784017278614</xmax>
-        <ymax>220.0793991416309</ymax>
+        <xmin>275</xmin>
+        <ymin>122</ymin>
+        <xmax>379</xmax>
+        <ymax>220</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -50,10 +50,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>307.27321814254856</xmin>
-        <ymin>214.8969957081545</ymin>
-        <xmax>429.60583153347727</xmax>
-        <ymax>320.2725321888412</ymax>
+        <xmin>307</xmin>
+        <ymin>215</ymin>
+        <xmax>430</xmax>
+        <ymax>320</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -61,10 +61,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>184.24946004319654</xmin>
-        <ymin>177.58369098712447</ymin>
-        <xmax>303.4719222462203</xmax>
-        <ymax>282.6137339055794</ymax>
+        <xmin>184</xmin>
+        <ymin>178</ymin>
+        <xmax>303</xmax>
+        <ymax>283</ymax>
     </bndbox>
 </object>
 </annotation>

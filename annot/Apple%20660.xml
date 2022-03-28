@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>14.573434125269978</xmin>
-        <ymin>67.37124463519314</ymin>
-        <xmax>121.35529157667386</xmax>
-        <ymax>159.27253218884118</ymax>
+        <xmin>15</xmin>
+        <ymin>67</ymin>
+        <xmax>121</xmax>
+        <ymax>159</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -28,10 +28,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>174.57343412526996</xmin>
-        <ymin>168.94635193133047</ymin>
-        <xmax>293.1047516198704</xmax>
-        <ymax>276.7403433476395</ymax>
+        <xmin>175</xmin>
+        <ymin>169</ymin>
+        <xmax>293</xmax>
+        <ymax>277</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -39,10 +39,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>305.1997840172786</xmin>
-        <ymin>207.64163090128756</ymin>
-        <xmax>426.15010799136064</xmax>
-        <ymax>317.16309012875536</ymax>
+        <xmin>305</xmin>
+        <ymin>208</ymin>
+        <xmax>426</xmax>
+        <ymax>317</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -50,10 +50,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>286.8844492440605</xmin>
-        <ymin>64.2618025751073</ymin>
-        <xmax>394.70302375809933</xmax>
-        <ymax>154.0901287553648</ymax>
+        <xmin>287</xmin>
+        <ymin>64</ymin>
+        <xmax>395</xmax>
+        <ymax>154</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -61,10 +61,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>350.8153347732181</xmin>
-        <ymin>130.25107296137338</ymin>
-        <xmax>468.3099352051836</xmax>
-        <ymax>212.13304721030042</ymax>
+        <xmin>351</xmin>
+        <ymin>130</ymin>
+        <xmax>468</xmax>
+        <ymax>212</ymax>
     </bndbox>
 </object>
 </annotation>

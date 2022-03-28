@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>121.75953079178886</xmin>
-        <ymin>195.14101775956283</ymin>
-        <xmax>242.81524926686217</xmax>
-        <ymax>309.51260245901636</ymax>
+        <xmin>122</xmin>
+        <ymin>195</ymin>
+        <xmax>243</xmax>
+        <ymax>310</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -28,10 +28,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>249.85337243401761</xmin>
-        <ymin>136.019706284153</ymin>
-        <xmax>366.6862170087977</xmax>
-        <ymax>236.3147882513661</ymax>
+        <xmin>250</xmin>
+        <ymin>136</ymin>
+        <xmax>367</xmax>
+        <ymax>236</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -39,10 +39,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>304.0469208211144</xmin>
-        <ymin>43.11478825136612</ymin>
-        <xmax>414.89736070381235</xmax>
-        <ymax>135.66779371584698</ymax>
+        <xmin>304</xmin>
+        <ymin>43</ymin>
+        <xmax>415</xmax>
+        <ymax>136</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -50,10 +50,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>131.61290322580646</xmin>
-        <ymin>68.4524931693989</ymin>
-        <xmax>235.42521994134898</xmax>
-        <ymax>160.30167349726776</ymax>
+        <xmin>132</xmin>
+        <ymin>68</ymin>
+        <xmax>235</xmax>
+        <ymax>160</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -61,10 +61,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>201.9941348973607</xmin>
-        <ymin>15.313695355191257</ymin>
-        <xmax>299.82404692082116</xmax>
-        <ymax>99.06888661202186</ymax>
+        <xmin>202</xmin>
+        <ymin>15</ymin>
+        <xmax>300</xmax>
+        <ymax>99</ymax>
     </bndbox>
 </object>
 </annotation>

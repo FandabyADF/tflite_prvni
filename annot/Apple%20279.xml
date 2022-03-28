@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>131.72246220302375</xmin>
-        <ymin>138.88841201716738</ymin>
-        <xmax>268.22354211663065</xmax>
-        <ymax>259.12017167381975</ymax>
+        <xmin>132</xmin>
+        <ymin>139</ymin>
+        <xmax>268</xmax>
+        <ymax>259</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -28,10 +28,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>55.35097192224622</xmin>
-        <ymin>46.64163090128755</ymin>
-        <xmax>184.94060475161984</xmax>
-        <ymax>157.19957081545064</ymax>
+        <xmin>55</xmin>
+        <ymin>47</ymin>
+        <xmax>185</xmax>
+        <ymax>157</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -39,10 +39,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>140.36177105831533</xmin>
-        <ymin>35.24034334763948</ymin>
-        <xmax>221.57127429805615</xmax>
-        <ymax>107.79399141630901</ymax>
+        <xmin>140</xmin>
+        <ymin>35</ymin>
+        <xmax>222</xmax>
+        <ymax>108</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -50,10 +50,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>77.81317494600431</xmin>
-        <ymin>198.31330472103002</ymin>
-        <xmax>172.5</xmax>
-        <ymax>296.4334763948498</ymax>
+        <xmin>78</xmin>
+        <ymin>198</ymin>
+        <xmax>173</xmax>
+        <ymax>296</ymax>
     </bndbox>
 </object><object>
     <name>apple</name>
@@ -61,10 +61,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>195.30777537796976</xmin>
-        <ymin>209.7145922746781</ymin>
-        <xmax>308.3099352051836</xmax>
-        <ymax>313.0171673819742</ymax>
+        <xmin>195</xmin>
+        <ymin>210</ymin>
+        <xmax>308</xmax>
+        <ymax>313</ymax>
     </bndbox>
 </object>
 </annotation>
